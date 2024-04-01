@@ -1,0 +1,9 @@
+--output_dir /scratch/ja961/Test-nomsa/template_test/Output/
+--params_dir /scratch/ja961/af2_params/
+--use_ptm
+--num_models 1
+--max_recycle 1
+--msa_mode single_sequence
+--use_templates
+--custom_template_path /scratch/ja961/evopro/evopro/run/protease_template/
+--design_run
